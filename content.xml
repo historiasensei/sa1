@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507200256OJOTHN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507200256J4G03L</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA1: Documental</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto final</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Daniel Castilla</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto fin de Unidad: Crea tu documental</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778176699942</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>41ba5e4b-322e-4244-8ed8-ba444cabcd8e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>41ba5e4b-322e-4244-8ed8-ba444cabcd8e</odePageId>
+      <odeBlockId>block-1778171284607-cf8u59qlu</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>41ba5e4b-322e-4244-8ed8-ba444cabcd8e</odePageId>
+          <odeBlockId>block-1778171284607-cf8u59qlu</odeBlockId>
+          <odeIdeviceId>idevice-1778171284604-wvkb4c8qe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="1 semana">1 semana</span></dt><dd>06:00</dd></div><div class="inline"><dt><span title="2-4">2-4</span></dt><dd>Grupo</dd></div></dl><p>En esta unidad didáctica vamos a adentrarnos en uno de los acontecimientos más importantes y decisivos del siglo XX: la Segunda Guerra Mundial. Analizaremos sus causas, el desarrollo del conflicto, las principales potencias enfrentadas y las consecuencias políticas, sociales y humanas que transformaron el mundo contemporáneo.</p>
+<p>A lo largo de las sesiones trabajaremos con diferentes fuentes históricas, imágenes, testimonios y materiales audiovisuales para comprender cómo vivieron este periodo millones de personas y cómo sus efectos siguen presentes en la actualidad.</p>
+<p>Como reto final de la unidad, os convertiréis en un equipo de investigación y producción histórica para elaborar un documental sobre distintos aspectos de la guerra, poniendo en práctica el análisis crítico, el trabajo cooperativo y la comunicación audiovisual.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171284604-wvkb4c8qe","textInfoDurationInput":"06:00","textInfoDurationTextInput":"1 semana","textInfoParticipantsInput":"Grupo","textInfoParticipantsTextInput":"2-4","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"1 semana\">1 semana</span></dt><dd>06:00</dd></div><div class=\"inline\"><dt><span title=\"2-4\">2-4</span></dt><dd>Grupo</dd></div></dl><p>En esta unidad didáctica vamos a adentrarnos en uno de los acontecimientos más importantes y decisivos del siglo XX: la Segunda Guerra Mundial. Analizaremos sus causas, el desarrollo del conflicto, las principales potencias enfrentadas y las consecuencias políticas, sociales y humanas que transformaron el mundo contemporáneo.</p>\n<p>A lo largo de las sesiones trabajaremos con diferentes fuentes históricas, imágenes, testimonios y materiales audiovisuales para comprender cómo vivieron este periodo millones de personas y cómo sus efectos siguen presentes en la actualidad.</p>\n<p>Como reto final de la unidad, os convertiréis en un equipo de investigación y producción histórica para elaborar un documental sobre distintos aspectos de la guerra, poniendo en práctica el análisis crítico, el trabajo cooperativo y la comunicación audiovisual.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778171638074-27aelj42x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778171638074-27aelj42x</odePageId>
+      <odeBlockId>block-1778171735063-n3vciihvk</odeBlockId>
+      <blockName>Licencias digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778171638074-27aelj42x</odePageId>
+          <odeBlockId>block-1778171735063-n3vciihvk</odeBlockId>
+          <odeIdeviceId>idevice-1778171735060-8b2p5vzk5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como vamos a trabajar con muchos materiales digitales (videos, imágenes, audios) es importante conocer los fundamentos sobre protección de datos personales y garantías de derechos digitales.</p>
+<p></p>
+<figure class="exe-figure position-center" style="width: 1587px;"><img src="{{context_path}}/content/resources/Cartel Póster Consejos Bienestar y Salud Ilustrativo Blanco.png" title="Infografía derechos autor" width="1587" height="2245" alt="Infografía derechos autor" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171735060-8b2p5vzk5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como vamos a trabajar con muchos materiales digitales (videos, imágenes, audios) es importante conocer los fundamentos sobre protección de datos personales y garantías de derechos digitales.</p>\n<p></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1587px;\"><img src=\"{{context_path}}/content/resources/Cartel Póster Consejos Bienestar y Salud Ilustrativo Blanco.png\" title=\"Infografía derechos autor\" width=\"1587\" height=\"2245\" alt=\"Infografía derechos autor\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778171638074-27aelj42x</odePageId>
+      <odeBlockId>block-1778171711697-1tfv62ary</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778171638074-27aelj42x</odePageId>
+          <odeBlockId>block-1778171711697-1tfv62ary</odeBlockId>
+          <odeIdeviceId>idevice-1778171711695-v5qyfpef9</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778171711695-v5qyfpef9" title="" href="{{context_path}}/content/resources/Cartel Póster Consejos Bienestar y Salud Ilustrativo Blanco.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Cartel Póster Consejos Bienestar y Salud Ilustrativo Blanco.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171711695-v5qyfpef9","img_0":{"img":"{{context_path}}/content/resources/Cartel Póster Consejos Bienestar y Salud Ilustrativo Blanco.png","thumbnail":"{{context_path}}/content/resources/Cartel Póster Consejos Bienestar y Salud Ilustrativo Blanco.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778172772910-2f5pptgjv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778172772910-2f5pptgjv</odePageId>
+      <odeBlockId>block-1778172778743-7m19ct4xn</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172772910-2f5pptgjv</odePageId>
+          <odeBlockId>block-1778172778743-7m19ct4xn</odeBlockId>
+          <odeIdeviceId>idevice-1778172778741-31iczsv4t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> La tarea final de esta unidad será crear un documental sobre algún suceso que tuviera lugar durante la II Guerra Mundial. Puede ser una batalla, una operación, un suceso concreto... La elección del tema es libre. </p>
+<p>   Debéis primero analizar el contenido visto en clase, y seleccionar algún tema que os interese para profundizar en él realizando el documental.  Tendréis que trabajar con diferentes videos (otros documentales), documentos, entrevistas (simulando ser ellos protagonistas históricos), mapas, imágenes etc. Esto debe ser editado y mezclado para formar un documental (de unos 5 minutos). A esto deben añadir su voz en off narrando lo que va ocurriendo, y añadir subtítulos en inglés que doble su voz como narrador.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172778741-31iczsv4t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> La tarea final de esta unidad será crear un documental sobre algún suceso que tuviera lugar durante la II Guerra Mundial. Puede ser una batalla, una operación, un suceso concreto... La elección del tema es libre. </p>\n<p>   Debéis primero analizar el contenido visto en clase, y seleccionar algún tema que os interese para profundizar en él realizando el documental.  Tendréis que trabajar con diferentes videos (otros documentales), documentos, entrevistas (simulando ser ellos protagonistas históricos), mapas, imágenes etc. Esto debe ser editado y mezclado para formar un documental (de unos 5 minutos). A esto deben añadir su voz en off narrando lo que va ocurriendo, y añadir subtítulos en inglés que doble su voz como narrador.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778172959440-hqvm5g1nw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Fuentes de información</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fuentes de información</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778172959440-hqvm5g1nw</odePageId>
+      <odeBlockId>block-1778173035447-777xmyogo</odeBlockId>
+      <blockName>Contenido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172959440-hqvm5g1nw</odePageId>
+          <odeBlockId>block-1778173035447-777xmyogo</odeBlockId>
+          <odeIdeviceId>idevice-1778173035445-skeu90z8n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación os dejo un Padlet con toda la información que vais a necesitar para realizar el trabajo. Podéis extraer información de cuantos sitios queráis, pero esto os servirá de guía básica de trabajo. Teneis los recursos divididos en 5 grupos:</p>
+<p>- Videos con información de contenido.</p>
+<p>- Tutoriales para los programas que vais a necesitar</p>
+<p>- Archivos de sonido para añadir el en documental y hacerlo más interactivo</p>
+<p>- Herramientas de trabajo colaborativo, para poder trabajar en grupo</p>
+<p>- Contenido histórico para obtener información fiable y verídica. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173035445-skeu90z8n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación os dejo un Padlet con toda la información que vais a necesitar para realizar el trabajo. Podéis extraer información de cuantos sitios queráis, pero esto os servirá de guía básica de trabajo. Teneis los recursos divididos en 5 grupos:</p>\n<p>- Videos con información de contenido.</p>\n<p>- Tutoriales para los programas que vais a necesitar</p>\n<p>- Archivos de sonido para añadir el en documental y hacerlo más interactivo</p>\n<p>- Herramientas de trabajo colaborativo, para poder trabajar en grupo</p>\n<p>- Contenido histórico para obtener información fiable y verídica. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778172959440-hqvm5g1nw</odePageId>
+      <odeBlockId>block-1778172989559-9luoj4n1u</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172959440-hqvm5g1nw</odePageId>
+          <odeBlockId>block-1778172989559-9luoj4n1u</odeBlockId>
+          <odeIdeviceId>idevice-1778172989557-yrrpx0ifm</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/dcasmar776/proyecto-integrado-documental-mv3ov2l04farun6z" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778174467696-wg7szv1re</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuenciación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuenciación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778174467696-wg7szv1re</odePageId>
+      <odeBlockId>block-1778174883131-wfxem1hy9</odeBlockId>
+      <blockName>Secuenciación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778174467696-wg7szv1re</odePageId>
+          <odeBlockId>block-1778174883131-wfxem1hy9</odeBlockId>
+          <odeIdeviceId>idevice-1778174883129-l0sc8o6em</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las tareas principales en las que consta el proyecto serán 4:</p>
+<p>Tarea 1. Análisis: Debéis buscar, comprender y analizar el contenido de la unidad y elegir el tema, acotando el período elegido. </p>
+<p>Tarea 2. Recopilación de información: Utilizando las fuentes de información que os he entregado en el punto anterior, debéis ver vídeos, analizar datos, recoger información y guardarla de forma genérica, para después ir filtrando y eligiendo lo más importante que queréis que se quede en el documental.</p>
+<p>Tarea 3. Uso de herramientas: Consultar videotutoriales y familiarizados con los programas de edición que vais a necesitar.</p>
+<p>Tarea 4: Recopilación del proyecto. Esta tarea consiste en montar toda la documentación que habéis recopilado en un sólo video, añadirle el audio narrando lo sucedido y ponerle subtítulos. </p>
+<p>Aquí tenéis la secuenciación temporal sugerida del proyecto.</p>
+<figure class="exe-figure position-center" style="width: 1734px;"><img src="{{context_path}}/content/resources/Dibujo1.png" title="Linea temporal" width="1734" height="495" alt="Linea temporal" />
+<figcaption class="figcaption"><span class="author">Daniel Castilla</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174883129-l0sc8o6em","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las tareas principales en las que consta el proyecto serán 4:</p>\n<p>Tarea 1. Análisis: Debéis buscar, comprender y analizar el contenido de la unidad y elegir el tema, acotando el período elegido. </p>\n<p>Tarea 2. Recopilación de información: Utilizando las fuentes de información que os he entregado en el punto anterior, debéis ver vídeos, analizar datos, recoger información y guardarla de forma genérica, para después ir filtrando y eligiendo lo más importante que queréis que se quede en el documental.</p>\n<p>Tarea 3. Uso de herramientas: Consultar videotutoriales y familiarizados con los programas de edición que vais a necesitar.</p>\n<p>Tarea 4: Recopilación del proyecto. Esta tarea consiste en montar toda la documentación que habéis recopilado en un sólo video, añadirle el audio narrando lo sucedido y ponerle subtítulos. </p>\n<p>Aquí tenéis la secuenciación temporal sugerida del proyecto.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1734px;\"><img src=\"{{context_path}}/content/resources/Dibujo1.png\" title=\"Linea temporal\" width=\"1734\" height=\"495\" alt=\"Linea temporal\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Daniel Castilla</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778174467696-wg7szv1re</odePageId>
+      <odeBlockId>block-1778174904495-phkdbbgqo</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778174467696-wg7szv1re</odePageId>
+          <odeBlockId>block-1778174904495-phkdbbgqo</odeBlockId>
+          <odeIdeviceId>idevice-1778174904494-rpcwjzp5w</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778174904494-rpcwjzp5w" title="" href="{{context_path}}/content/resources/Dibujo1.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Dibujo1.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174904494-rpcwjzp5w","img_0":{"img":"{{context_path}}/content/resources/Dibujo1.png","thumbnail":"{{context_path}}/content/resources/Dibujo1.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778175164479-j6vrsuisy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778175164479-j6vrsuisy</odePageId>
+      <odeBlockId>block-1778175395039-f7f16a2gg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778175164479-j6vrsuisy</odePageId>
+          <odeBlockId>block-1778175395039-f7f16a2gg</odeBlockId>
+          <odeIdeviceId>idevice-1778175395038-brdrw1xqd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí os dejo primero los criterios de evaluación de la unidad.</p>
+<table border="2" class="exe-table" style="width: 100.036%; border-color: #000000; border-style: solid;"><caption>Caption</caption>
+<tbody>
+<tr>
+<td style="width: 9.74485%; text-align: center;">Tarea 1</td>
+<td style="width: 90.2537%;">
+<p>3.4. Analizar procesos de cambio histórico y comparar casos del ámbito de la Historia y la Geografía a través del uso de fuentes de información diversas, teniendo en cuenta las transformaciones de corta y larga duración (coyuntura y estructura), las continuidades y permanencias en diferentes períodos y lugares.</p>
+<p>2.2. Producir y expresar juicios y argumentos personales y críticos de forma abierta y respetuosa, haciendo patente la propia identidad y enriqueciendo el acervo común en el contexto del mundo actual, sus retos y sus conflictos, desde una perspectiva sistémica y global. </p>
+</td>
+</tr>
+<tr>
+<td style="width: 9.74485%; text-align: center;">Tarea 2</td>
+<td style="width: 90.2537%;">
+<p>1.3. Transferir adecuadamente la información y el conocimiento por medio de narraciones, pósteres, presentaciones, exposiciones orales, medios audiovisuales y otros productos. </p>
+<p>1.2. Establecer conexiones y relaciones entre los conocimientos e informaciones adquiridos, elaborando síntesis interpretativas y explicativas, mediante informes, estudios o dosieres informativos, que reflejen un dominio y consolidación de los contenidos tratados. </p>
+</td>
+</tr>
+<tr>
+<td style="width: 9.74485%; text-align: center;">Tarea 3</td>
+<td style="width: 90.2537%;">5.1. Conocer, valorar y ejercitar responsabilidades, derechos y deberes y actuar en favor de su desarrollo y afirmación, a través del conocimiento de nuestro ordenamiento jurídico y constitucional, de la comprensión y puesta en valor de nuestra memoria democrática y de los aspectos fundamentales que la conforman, de la contribución de los hombres y mujeres a la misma, y la defensa de nuestros valores constitucionales</td>
+</tr>
+<tr>
+<td style="width: 9.74485%; text-align: center;">Tarea 4</td>
+<td style="width: 90.2537%;">
+<p>1.1. Elaborar contenidos propios en distintos formatos, mediante aplicaciones y estrategias de recogida y representación de datos más complejas, usando y contrastando críticamente fuentes fiables, tanto analógicas como digitales, del presente y de la historia contemporánea, identificando la desinformación y la manipulación. </p>
+<p>6.1. Rechazar actitudes discriminatorias y reconocer la riqueza de la diversidad, a partir del análisis de la relación entre los aspectos geográficos, históricos, ecosociales y culturales que han conformado la sociedad globalizada y multicultural actual, y del conocimiento de la aportación de los movimientos en defensa de los derechos de las minorías y en favor de la inclusión y la igualdad real, especialmente de las mujeres y de otros colectivos discriminados. </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p>La evaluación se realizará a través de estos dos instrumentos. En primer lugar la rúbrica: </p>
+<p><br /></p>
+<figure class="exe-figure position-center" style="width: 783px;"><img src="{{context_path}}/content/resources/2026-05-07 19-44-51.png" title="Rubrica" width="783" height="810" alt="Rubrica" />
+<figcaption class="figcaption"><span class="author">Daniel Castilla</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+<p> También se utilizará esta lista de cotejo:</p>
+<figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/mceclip0.jpg" title="Lista cotejo" alt="Lista cotejo" />
+<figcaption class="figcaption"><span class="author">Daniel Castilla</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175395038-brdrw1xqd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí os dejo primero los criterios de evaluación de la unidad.</p>\n<table border=\"2\" class=\"exe-table\" style=\"width: 100.036%; border-color: #000000; border-style: solid;\"><caption>Caption</caption>\n<tbody>\n<tr>\n<td style=\"width: 9.74485%; text-align: center;\">Tarea 1</td>\n<td style=\"width: 90.2537%;\">\n<p>3.4. Analizar procesos de cambio histórico y comparar casos del ámbito de la Historia y la Geografía a través del uso de fuentes de información diversas, teniendo en cuenta las transformaciones de corta y larga duración (coyuntura y estructura), las continuidades y permanencias en diferentes períodos y lugares.</p>\n<p>2.2. Producir y expresar juicios y argumentos personales y críticos de forma abierta y respetuosa, haciendo patente la propia identidad y enriqueciendo el acervo común en el contexto del mundo actual, sus retos y sus conflictos, desde una perspectiva sistémica y global. </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 9.74485%; text-align: center;\">Tarea 2</td>\n<td style=\"width: 90.2537%;\">\n<p>1.3. Transferir adecuadamente la información y el conocimiento por medio de narraciones, pósteres, presentaciones, exposiciones orales, medios audiovisuales y otros productos. </p>\n<p>1.2. Establecer conexiones y relaciones entre los conocimientos e informaciones adquiridos, elaborando síntesis interpretativas y explicativas, mediante informes, estudios o dosieres informativos, que reflejen un dominio y consolidación de los contenidos tratados. </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 9.74485%; text-align: center;\">Tarea 3</td>\n<td style=\"width: 90.2537%;\">5.1. Conocer, valorar y ejercitar responsabilidades, derechos y deberes y actuar en favor de su desarrollo y afirmación, a través del conocimiento de nuestro ordenamiento jurídico y constitucional, de la comprensión y puesta en valor de nuestra memoria democrática y de los aspectos fundamentales que la conforman, de la contribución de los hombres y mujeres a la misma, y la defensa de nuestros valores constitucionales</td>\n</tr>\n<tr>\n<td style=\"width: 9.74485%; text-align: center;\">Tarea 4</td>\n<td style=\"width: 90.2537%;\">\n<p>1.1. Elaborar contenidos propios en distintos formatos, mediante aplicaciones y estrategias de recogida y representación de datos más complejas, usando y contrastando críticamente fuentes fiables, tanto analógicas como digitales, del presente y de la historia contemporánea, identificando la desinformación y la manipulación. </p>\n<p>6.1. Rechazar actitudes discriminatorias y reconocer la riqueza de la diversidad, a partir del análisis de la relación entre los aspectos geográficos, históricos, ecosociales y culturales que han conformado la sociedad globalizada y multicultural actual, y del conocimiento de la aportación de los movimientos en defensa de los derechos de las minorías y en favor de la inclusión y la igualdad real, especialmente de las mujeres y de otros colectivos discriminados. </p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p>La evaluación se realizará a través de estos dos instrumentos. En primer lugar la rúbrica: </p>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 783px;\"><img src=\"{{context_path}}/content/resources/2026-05-07 19-44-51.png\" title=\"Rubrica\" width=\"783\" height=\"810\" alt=\"Rubrica\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Daniel Castilla</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>\n<p> También se utilizará esta lista de cotejo:</p>\n<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" title=\"Lista cotejo\" alt=\"Lista cotejo\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Daniel Castilla</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778176348579-puzp8z92q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778176348579-puzp8z92q</odePageId>
+      <odeBlockId>block-1778176350817-v7kas06fc</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778176348579-puzp8z92q</odePageId>
+          <odeBlockId>block-1778176350817-v7kas06fc</odeBlockId>
+          <odeIdeviceId>idevice-1778176350815-ulrmlutqh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Creado por Daniel Castilla. </p>
+<p>Proyecto: Crea tu Documental</p>
+<p>Licencia de uso: CC-BY-NC-SA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778176350815-ulrmlutqh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Creado por Daniel Castilla. </p>\n<p>Proyecto: Crea tu Documental</p>\n<p>Licencia de uso: CC-BY-NC-SA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778176348579-puzp8z92q</odePageId>
+      <odeBlockId>block-1778176721327-dndktycrm</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778176348579-puzp8z92q</odePageId>
+          <odeBlockId>block-1778176721327-dndktycrm</odeBlockId>
+          <odeIdeviceId>idevice-1778176721326-6xzr4ownd</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA1: Documental</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Proyecto fin de Unidad: Crea tu documental</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Daniel Castilla</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
